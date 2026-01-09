@@ -41,15 +41,17 @@ The project utilzes datasets derived from the John Hopkins University CSSE COVID
 ## Installation & Setup
 ### 1. Clone the Repository:
 ```
-### git clone [https://github.com/yourusername/covid-data-exploration.git](https://github.com/yourusername/covid-data-exploration.git)
+git clone [https://github.com/yourusername/covid-data-exploration.git](https://github.com/yourusername/covid-data-exploration.git)
 ```
 
-### 2. Installation of required libraries: The packages should be installed if you are experiened with using Jupyter Notebook and the libraries. If not, run this:
+### 2. Installation of required libraries: The packages should be installed if you are experiened with using Jupyter Notebook and the libraries. If not, run this line of code below in Jupyter Notebook, Google Colab, or Visual Studio Code:
 ```
 pip install pandas
 pip instal geopandas
 pip install matplotlib
 pip install folium
-pip mapclassify
+pip install mapclassify
 ```
+
+### 3. Running the script: Open "Larcher Paxton Project-Copy1.ipynb" with Jupyter Notebook (using Anaconda, Google Colab, or VS Code) and run cell 1 sequen..
 
