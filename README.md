@@ -53,5 +53,24 @@ pip install folium
 pip install mapclassify
 ```
 
-### 3. Running the script: Open "Larcher Paxton Project-Copy1.ipynb" with Jupyter Notebook (using Anaconda, Google Colab, or VS Code) and run cell 1 sequen..
+### 3. Running the script: Open "Larcher Paxton Project-Copy1.ipynb" with Jupyter Notebook (using Anaconda, Google Colab, or VS Code) and run cell 1 sequentially...
+
+## Usage Guide
+
+### 1. Start the Progam: Run the main code cell.
+
+### 2. Entering the details: * input your first name (Not case sensitive)
+  - Type the name of a US State (e.g., "Virginia", "New York", "California"). Note: the names are not case sensitive
+
+### 3. Review Statistics: The program will print a statistical summary for 2020 and 2021.
+
+### 4. Choose Visualization:
+- Enter ```1``` to view the Matplotlib Dashboard.
+- Enter ```2``` to view the Interactive Map.
+
+## Importance of the Project/Knowledge Displayed
+- **Data Cleaning:** Implements robust data cleaning techniques, including melting wide-format data into long-format time series and merging datasets on FIPS codes.
+- **Geospatial Integration:** Successfully merges statistical COVID-19 data with geometric shapefiles to create accurate choropleth maps.
+- **Error Handling:** Manages missing values and ensure correct data type for FIPS codes during merging processes.
+
 
